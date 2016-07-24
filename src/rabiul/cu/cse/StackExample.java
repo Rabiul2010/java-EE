@@ -14,6 +14,7 @@ public class StackExample {
 		stack.push("Abdullah Al Mohammad Maruf");
 		stack.push("Swarup Muhuri");
 		stack.push("Nishan Das");
+		stack.push("Farhad Mohammad Shahriar");
 		/*
 		 * stack.push(1); stack.push(2); stack.push(3); stack.push(4);
 		 * stack.push(5);
